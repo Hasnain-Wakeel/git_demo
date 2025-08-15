@@ -1,2 +1,2 @@
 # git_setup
-This is my git setup repo. 
+This is my Git Setup repo. 
