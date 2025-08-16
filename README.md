@@ -1,4 +1,4 @@
 # git_setup
-This is my Git Setup repo. 
+1. This is my Git Setup repo. 
 <br>
-Author : "Hasnain Raza"
+2. Author : "Hasnain Raza"
